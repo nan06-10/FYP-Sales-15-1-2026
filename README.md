@@ -19,9 +19,8 @@ Technical Aspects
 * **Libraries:** Pandas (Data Manipulation), Matplotlib/Seaborn (Data Visualization), NumPy (Numerical Analysis)
 * **Platform:** Google Colab / Jupyter Notebooks
 
-## 📈 Sample Results
-> *Note: If you have a screenshot of a graph or chart from your notebook, insert it here!*
-> `![Sales Trend Graph](link_to_your_image_here.png)`
+Sample
+<img width="906" height="548" alt="image" src="https://github.com/user-attachments/assets/cb2bb35f-76fb-43e9-98d5-37cd334f6b93" />
 
 I looked at all the aspects of the data provided, operational procedures and revenue to find the weak points of the system that could be improved
 
