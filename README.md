@@ -4,7 +4,7 @@ Business Operations & Sales Intelligence Analysis
 
 
 # Overview
-This project transforms raw, messy sales data into actionable business insights. By applying data science techniques, I analyzed transaction patterns to understand how a business actually functions—helping to identify peak performance times, popular products, and operational bottlenecks.
+This project transforms raw, messy sales data into actionable business insights. By applying data science techniques, I analyzed transaction patterns to understand how a business actually functions—helping to identify peak performance times, popular products and operational bottlenecks.
 
 This tool provides data-driven evidence needed to make smarter business decisions
 
